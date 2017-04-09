@@ -8,7 +8,7 @@
                 {% for org_hash in site.data.orgs %}
                 {% assign org = org_hash[1] %}
                   <li>
-                    <a class="btn btn-default btn-lg" href="https://github.com/{{ org.username }}">
+                    <a class="btn btn-default" href="https://github.com/{{ org.username }}">
                     {{ org.name }}
                     </a>
                     ({{ org.members | size }} members)
