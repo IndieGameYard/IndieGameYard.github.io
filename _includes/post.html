@@ -1,0 +1,12 @@
+    <!-- Post Section -->
+    <section id="post" class="container content-section text-center">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+                <h2>소&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;식</h2>
+                  {% for post in site.posts %}
+                    <p><a href="{{ post.url }}"><em>{{ post.date }}{{ post.title }}</em></a></p>
+                  {% endfor %}
+                </ul>
+            </div>
+        </div>
+    </section>
