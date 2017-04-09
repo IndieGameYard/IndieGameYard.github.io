@@ -1,0 +1,26 @@
+# Site settings
+title: 독립게임 도서관
+email: indiegameyard@gmail.com
+url: https://indiegameyard.github.io/library/
+description: "독립게임 도서관에 오신 것을 환영합니다."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
+
+# Footer settings
+footer: IndieGameYard
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/indiegamekorea
+  - title: facebook
+    url: https://www.facebook.com/indiegameyard
+  - title: github
+    url: https://github.com/IndieGameYard
+
+# Build settings
+markdown: kramdown
+permalink: pretty
