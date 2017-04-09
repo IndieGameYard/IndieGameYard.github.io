@@ -1,8 +1,8 @@
 # Site settings
-title: 독립게임 도서관
+title: 한국독립게임마당
 email: indiegameyard@gmail.com
-url: https://indiegameyard.github.io/library/
-description: "독립게임 도서관에 오신 것을 환영합니다."
+url: https://indiegameyard.github.io
+description: "한국독립게임마당에 오신 것을 환영합니다."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
