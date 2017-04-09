@@ -1,4 +1,4 @@
-Independent Games in Korea, Republic of.
+Independent Games of Korea, Republic of.
 =========================
 
 Under Construction
